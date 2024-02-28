@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.74 94.47">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Gotham-Black, 'Gotham Black';
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        font-size: 24.02px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M75.16,46.47c-1.03,2.09-2.42,3.83-4.19,5.23s-3.84,2.45-6.22,3.17c-2.38.72-4.92,1.08-7.62,1.08h-9.71v15.69h-8.51V22.83h19.24c2.83,0,5.4.38,7.7,1.15,2.3.77,4.25,1.87,5.86,3.31,1.6,1.44,2.83,3.16,3.69,5.16.86,2,1.29,4.25,1.29,6.76,0,2.74-.51,5.16-1.54,7.25ZM65.12,32.78c-1.91-1.47-4.48-2.2-7.69-2.2h-10v17.64h10c3.26,0,5.84-.8,7.73-2.42,1.89-1.61,2.83-3.74,2.83-6.4,0-2.94-.96-5.14-2.87-6.61Z"/>
+  <g>
+    <text class="cls-3" transform="translate(97.25 48.74)"><tspan x="0" y="0">POINT OF SALE</tspan></text>
+    <g>
+      <text class="cls-2" transform="translate(130.31 63.73)"><tspan x="0" y="0">E</tspan></text>
+      <text class="cls-2" transform="translate(139.47 63.73) scale(.7)"><tspan x="0" y="0">FFICIENCY</tspan></text>
+      <text class="cls-2" transform="translate(192.86 63.73)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-2" transform="translate(196.55 63.73) scale(.7)"><tspan x="0" y="0">AT</tspan></text>
+      <text class="cls-2" transform="translate(209.68 63.73)"><tspan x="0" y="0" xml:space="preserve"> R</tspan></text>
+      <text class="cls-2" transform="translate(223.26 63.73) scale(.7)"><tspan x="0" y="0">ETAIL</tspan></text>
+    </g>
+  </g>
+</svg>
